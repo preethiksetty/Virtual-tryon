@@ -37,7 +37,8 @@ Video demonstration of the application:
 ---
 
 ## Project Structure
-```project-folder/
+```
+project-folder/
 │
 ├── demo/
 │   └── demo.mp4
